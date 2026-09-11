@@ -61,6 +61,6 @@ Retail sales analysis covering regional performance, product categories, and top
 
 ## 📫 Let's Connect
 
-- LinkedIn: [https://www.linkedin.com/in/bilal-ahmad-690269288/]
-- Email: [bilal.zulfiqar3205@gmail.com]
-📂 **Portfolio:** [View my full portfolio]([PASTE_YOUR_LINK_HERE](https://drive.google.com/file/d/1RNVmy-f3CAQgYz5WwgSwme2KhdWrytEr/view?usp=drive_link))'
+- LinkedIn: [https://www.linkedin.com/in/bilal-ahmad-690269288/](https://www.linkedin.com/in/bilal-ahmad-690269288/)
+- Email: bilal.zulfiqar3205@gmail.com
+- 📂 **Portfolio:** [View my full portfolio](https://drive.google.com/file/d/1RNVmy-f3CAQgYz5WwgSwme2KhdWrytEr/view?usp=drive_link)
