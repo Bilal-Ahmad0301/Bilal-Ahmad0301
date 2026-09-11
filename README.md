@@ -35,7 +35,7 @@ Built and maintained multiple Power BI dashboards to support recruitment, sales,
 
 Worked with real business data to support HR and sales decision-making. (Dashboards shared in this portfolio use anonymized data to protect confidentiality.)
 
-**E-commerce Management (Remote) — Hitide**
+**E-commerce Management (Remote) 
 Managed e-commerce operations remotely, which sparked my interest in working with data to understand performance and trends.
 
 **Cold Email Marketing**
