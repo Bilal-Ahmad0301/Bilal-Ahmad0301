@@ -2,7 +2,7 @@
 
 ## 📊 Data Analyst | Power BI Developer
 
-My path into data analysis wasn't a straight line — and I think that's a strength. I started out as a web development student, then worked in cold email marketing, followed by a remote role in e-commerce management at Hitide. Along the way, I got interested in data and decided to learn data analysis properly — building the three projects featured below — which led to my role as a Data Analyst at Kamayi.pk, where I built Power BI dashboards for recruitment and revenue analytics.
+My path into data analysis wasn't a straight line and I think that's a strength. I started out as a web development student, then worked in cold email marketing, followed by a remote role in e-commerce management. Along the way, I got interested in data and decided to learn data analysis properly building the three projects featured below — which led to my role as a Data Analyst at Kamayi.pk, where I built Power BI dashboards for recruitment and revenue analytics.
 
 ---
 
